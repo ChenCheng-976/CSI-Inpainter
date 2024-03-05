@@ -2,7 +2,7 @@
 
 Welcome to the official repository for CSI-Inpainter, a pioneering approach enabling visual scene recovery and occlusion removal using Channel State Information (CSI) time sequences. This work propels the application of wireless signal processing into the realm of visual scene recovery, leveraging CSI data to construct and refine obscured visual elements under any lighting conditions.
 
-Developed by [Nishio Lab]([https://nishio-laboratory.github.io/]), Tokyo Institute of Technology, this framework introduces a novel method for obstacle removal that enhances computer vision applications by providing a transformative perspective on environmental visual information extraction.
+This framework introduces a novel method for obstacle removal that enhances computer vision applications by providing a transformative perspective on environmental visual information extraction.
 
 ## About CSI-Inpainter
 
@@ -15,10 +15,9 @@ This repository contains:
 - **Factory Dataset**: A specialized dataset from industrial settings to further challenge and evaluate our approach.
 - **CSI-Guided Imaging and Obstacle Removal Code**: The complete codebase for implementing CSI-Inpainter, including data preprocessing, model training, and evaluation scripts.
 
-## Getting Started
+## Usage
+Please refer to the Jupyter directory for notebooks demonstrating how to use CSI-Inpainter for various applications. These examples provide a step-by-step guide to processing CSI data, training the model, and visualizing the results.
 
-To get started with CSI-Inpainter, please follow the steps below:
+## Acknowledgments
+This work was supported by Nishio Lab ([https://nishio-laboratory.github.io/]), Tokyo Institute of Technology. We thank all contributors and collaborators for their invaluable efforts in advancing this project.
 
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/NishioLab/CSI-Inpainter.git
