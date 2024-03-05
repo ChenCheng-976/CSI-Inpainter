@@ -13,7 +13,7 @@ CSI-Inpainter uses Transformer architectures to recover visual scenes from CSI t
 
 ## This repository contains:
 
-- **Office Dataset**: A comprehensive dataset collected in office environments to test and validate the CSI-Inpainter.
+- **Office Dataset**: A comprehensive dataset collected in office environments to test and validate the CSI-Inpainter (https://zenodo.org/records/10782964?preview=1).
 - **Factory Dataset**: A specialized dataset from industrial settings to further challenge and evaluate our approach.
 - **CSI-Guided Imaging and Obstacle Removal Code**: The complete codebase for implementing CSI-Inpainter, including data preprocessing, model training, and evaluation scripts.
 
