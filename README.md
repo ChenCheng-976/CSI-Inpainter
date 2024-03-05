@@ -21,7 +21,7 @@ This repository contains:
 - **CSI-Guided Imaging and Obstacle Removal Code**: The complete codebase for implementing CSI-Inpainter, including data preprocessing, model training, and evaluation scripts.
 
 ## Usage
-Please refer to the Jupyter directory for notebooks demonstrating how to use CSI-Inpainter for various applications. These examples provide a step-by-step guide to processing CSI data, training the model, and visualizing the results.
+Please download the datasets and refer to the Jupyter directory for notebooks demonstrating how to use CSI-Inpainter for various applications. These examples provide a step-by-step guide to processing CSI data, training the model, and visualizing the results.
 
 ## Acknowledgments
 This work was supported by Nishio Lab (https://nishio-laboratory.github.io/), Tokyo Institute of Technology. We thank all contributors and collaborators for their invaluable efforts in advancing this project.
