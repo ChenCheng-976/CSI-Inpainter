@@ -4,6 +4,11 @@ Welcome to CSI-Inpainter, a pioneering approach enabling visual scene recovery a
 
 This framework introduces a novel method for obstacle removal that enhances computer vision applications by providing a transformative perspective on environmental visual information extraction.
 
+## News
+
+- **[2024-03-06]** Our paper "CSI-Inpainter: Enabling Visual Scene Recovery from CSI Time Sequences for Occlusion Removal" is now available on [arXiv](https://arxiv.org/abs/2305.05385v3).
+- Stay tuned for upcoming dataset releases and code updates.
+
 ## About CSI-Inpainter
 
 CSI-Inpainter uses Transformer architectures to recover visual scenes from CSI time sequences, offering superior performance in occlusion removal without reliance on conventional cameras. This method has been validated in varied real-world environments, including office and industrial settings, showcasing its robust capacity for discerning and reconstructing occluded segments.
