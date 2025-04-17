@@ -1,4 +1,4 @@
-# CSI-Inpainter: Visual Scene Recovery using CSI Time Sequences
+# Enabling Visual Scene Recovery from Wi-Fi CSI for Occlusion-Free Surveillance
 
 Welcome to CSI-Inpainter, a pioneering approach enabling visual scene recovery and occlusion removal using Channel State Information (CSI) time sequences. This work propels the application of wireless signal processing into the realm of visual scene recovery, leveraging CSI data to construct and refine obscured visual elements under any lighting conditions.
 
