@@ -30,5 +30,5 @@ Please download the datasets and refer to the Jupyter directory for notebooks de
 
 
 ## Acknowledgments
-This work was supported by Nishio Lab (https://nishio-laboratory.github.io/), Tokyo Institute of Technology. We thank all contributors and collaborators for their invaluable efforts in advancing this project.
+This work was supported by Nishio Lab (https://nishio-laboratory.github.io/), Institute of Science Tokyo. We thank all contributors and collaborators for their invaluable efforts in advancing this project.
 
