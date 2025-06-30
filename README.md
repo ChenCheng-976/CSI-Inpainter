@@ -25,7 +25,7 @@ Please download the datasets and refer to the Jupyter directory for notebooks de
 
 ## News
 - **[2025-06-01]** Our paper is formally published on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10840275).
-- **[2025-01-01]** Our paper is accepted by IEEE IoT Journal and now available on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10840275). Congratulations!
+- **[2025-01-01]** Our paper is accepted by IEEE Internet of Things Journal (Impact Factor: 10.6), Congratulations!
 - **[2024-03-06]** Our paper "CSI-Inpainter: Enabling Visual Scene Recovery from CSI Time Sequences for Occlusion Removal" is now available on [arXiv](https://arxiv.org/abs/2305.05385v3).
 - Stay tuned for upcoming dataset releases and code updates.
 
