@@ -15,7 +15,7 @@ CSI-Inpainter uses CSI time sequences to recover visual scenes, offering superio
 
 - **Office Dataset**: A comprehensive dataset collected in office environments to test and validate the CSI-Inpainter (https://zenodo.org/records/10782964?preview=1).
 - **Factory Dataset**: A specialized dataset from industrial settings to further challenge and evaluate our approach (will be released soon).
-- **CSI-Guided Imaging and Obstacle Removal Example Code**: The complete codebase for implementing CSI-Inpainter, including data preprocessing, model training, and evaluation scripts.
+- **Multimodal Obstacle Removal and CSI-Guided Imaging Example Code**: The complete codebase for implementing CSI-Inpainter, including data preprocessing, model training, and evaluation scripts.
 
 
 ## Usage
