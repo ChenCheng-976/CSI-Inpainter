@@ -2,13 +2,13 @@
 
 Welcome to CSI-Inpainter, a pioneering approach enabling visual scene recovery and occlusion removal using Channel State Information (CSI) time sequences. This work propels the application of wireless signal processing into the realm of visual scene recovery, leveraging CSI data to construct and refine obscured visual elements under any lighting conditions.
 
-This framework introduces a novel method for obstacle removal that enhances computer vision applications by providing a transformative perspective on environmental visual information extraction.
+CSI-Inpainter is the first framework to leverage Wi-Fi channel-state information (CSI) for removing large occlusions in surveillance images. It also pioneers multi-environment validation (office, factory) and a systematic study of how sensor placement, multi-sensor fusion, and CSI temporal/frequency resolution shape reconstruction quality.
 
 
 
 ## About CSI-Inpainter
 
-CSI-Inpainter uses Transformer architectures to recover visual scenes from CSI time sequences, offering superior performance in occlusion removal without reliance on conventional cameras. This method has been validated in varied real-world environments, including office and industrial settings, showcasing its robust capacity for discerning and reconstructing occluded segments.
+CSI-Inpainter uses CSI time sequences to recover visual scenes, offering superior performance in large-size occlusion removal without reliance on conventional cameras. This method has been validated in varied real-world environments, including office and industrial settings, showcasing its robust capacity for discerning and reconstructing occluded segments.
 
 
 ## This repository contains:
