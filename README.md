@@ -1,6 +1,7 @@
 # Enabling Visual Scene Recovery from Wi-Fi CSI for Occlusion-Free Surveillance
 
 This is the official implementation of our paper "Enabling Visual Scene Recovery from Wi-Fi CSI for Occlusion-Free Surveillance."
+
 In this work, we propose CSI-Inpainter, the first framework to leverage Wi-Fi channel-state information (CSI) for removing large occlusions in surveillance images. It also pioneers multi-environment validation (office, factory) and a systematic study of how sensor placement, multi-sensor fusion, and CSI temporal/frequency resolution shape reconstruction quality.
 
 
