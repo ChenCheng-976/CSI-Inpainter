@@ -8,7 +8,7 @@ In this work, we propose CSI-Inpainter, the first framework to leverage Wi-Fi ch
 
 ## About CSI-Inpainter
 CSI-Inpainter uses CSI time sequences to recover visual scenes, offering superior performance in large-size occlusion removal without reliance on conventional cameras. This method has been validated in varied real-world environments, including office and industrial settings, showcasing its robust capacity for discerning and reconstructing occluded segments.
-<img src="Images/csi_inpainter.png" alt="csi_inpainter_framework" width="500"/>
+<img src="Images/csi_inpainter.png" alt="csi_inpainter_framework" width="800"/>
 
 
 ## This repository contains:
